@@ -442,4 +442,4 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under a Custom License. See the license terms for more details. Also the code is written with AI to 10%
+This project is licensed under the MIT. See the license terms for more details. Also the code is written with AI to 10%
